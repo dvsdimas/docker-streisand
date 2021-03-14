@@ -33,12 +33,8 @@ docker run -v generated-docs:/root/streisand/generated-docs/ -it --name streisan
 
 ## Supported Providers
 
-### Tested
+### Just for Linode
 
-- [x] Digital Ocean
 - [x] Linode
 
-### Untested
-- [ ] Amazon
-- [ ] Rackspace
 
