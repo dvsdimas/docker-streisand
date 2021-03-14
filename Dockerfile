@@ -19,7 +19,7 @@ RUN	ssh-keygen -f /root/.ssh/id_rsa -q -N "" \
 
 WORKDIR	/root
 
-RUN	git clone https://github.com/dvsdimas/docker-streisand.git
+RUN	git clone https://github.com/dvsdimas/streisand.git
 
 WORKDIR	/root/streisand
 
